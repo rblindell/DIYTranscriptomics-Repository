@@ -3,4 +3,4 @@
   Files will be updated peroidically.
 
 # Directory
-  Files will be organized by into folers by lecture.
+  Files will be organized by into folders by lecture.
